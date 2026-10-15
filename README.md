@@ -4,3 +4,4 @@
 
 Изменения из ветки feature-b
  feature-b
+Изменения в master после создания feature-c
